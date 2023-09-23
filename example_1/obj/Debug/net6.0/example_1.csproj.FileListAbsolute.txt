@@ -1,0 +1,15 @@
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\bin\Debug\net6.0\example_1.exe
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\bin\Debug\net6.0\example_1.deps.json
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\bin\Debug\net6.0\example_1.runtimeconfig.json
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\bin\Debug\net6.0\example_1.dll
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\bin\Debug\net6.0\example_1.pdb
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\example_1.csproj.AssemblyReference.cache
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\example_1.AssemblyInfoInputs.cache
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\example_1.AssemblyInfo.cs
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\example_1.csproj.CoreCompileInputs.cache
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\example_1.dll
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\refint\example_1.dll
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\example_1.pdb
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\example_1.genruntimeconfig.cache
+C:\Users\chost\Desktop\Новая папка\geekbrains\Examples\example_1\obj\Debug\net6.0\ref\example_1.dll
